@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLinkToRaiseCom", "DLinkToRaiseCom.csproj", "{BA47A580-C34C-468A-96BC-489AB8B561DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA47A580-C34C-468A-96BC-489AB8B561DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA47A580-C34C-468A-96BC-489AB8B561DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA47A580-C34C-468A-96BC-489AB8B561DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA47A580-C34C-468A-96BC-489AB8B561DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C720635-7088-42F6-872A-A8D53ACD77FF}
+	EndGlobalSection
+EndGlobal
